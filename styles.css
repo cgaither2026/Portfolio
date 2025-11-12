@@ -1,0 +1,44 @@
+canvas {
+	border: 1px solid black; /* Optional: Adds a border around the canvas */
+	padding: 10px;
+	margin: 20px;
+}
+h1 {
+	border: 2px solid black; /* Adds border to all header 1 tags */
+	background-color: hsl(350, 100%, 88%); /* Changes all header 1 tags to be pink */
+	text-align: center; /* Centers all header 1 tags text */
+	font-size: 30px; /* Changes all header 1 tags text to be 30 pixels big */
+}
+a {
+	color: rgb(50, 255, 25); /* Changes all link tags to green */
+}
+video {
+	border: 5px solid black; /* Adds border to all video tags */
+}
+img {
+	border: 3px solid black; /* Adds border to all img tags */
+}
+p {
+	font-family: 'Arial';
+	font-size: 16px; /* Changes all paragraph tags text to be 16 pixels big */
+}
+.main {
+	background-color: #05696B; /* Changes main pages body tags to a dark aqua */
+	padding: 10px;
+	margin: 20px;
+}
+.contacts {
+	background-color: LightYellow; /* Changes contact pages body tags to a light yellow */
+	padding: 10px;
+	margin: 20px;
+}
+.work {
+	background-color: #800000; /* Changes project pages body tags to maroon */
+	padding: 10px;
+	margin: 20px;
+}
+.resume {
+	background-color: rgb(169, 169, 169); /* Changes resume pages body tags to a dark gray */
+	padding: 10px;
+	margin: 20px;
+}
